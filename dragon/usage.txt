@@ -1,0 +1,31 @@
+Isso aqui e a documentacao da script
+vamos la
+
+primeiramente essa script foi criada por min Mr.HACv4
+
+metodo para usar ela e simples
+
+vc pode da um git clone https://github.com/hackinglinuxhacv4/dragon.git
+
+cd dragon
+cd dragon
+
+comandos para dar permissao para nao haver erros
+
+chmod +x dragon.py
+ou
+chmod 777 dragon.py
+
+e preciso ter o python3 instalado se nao tiver 
+
+apt-get install python3
+ou
+sudo apt-get install python3
+
+executando a ferramenta 
+
+python3 dragon.py 
+
+a ferramenta tem diversas opcoes para voce escolher se divirta 
+
+se ocorrer algum erro fale diretamente comigo
